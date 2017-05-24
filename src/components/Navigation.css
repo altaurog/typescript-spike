@@ -1,0 +1,3 @@
+.first-button, .prev-button, .last-button, .next-button { margin: 10px; }
+.first-button, .prev-button { float: left; }
+.last-button, .next-button { float: right; }
